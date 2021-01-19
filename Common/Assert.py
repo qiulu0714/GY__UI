@@ -9,9 +9,7 @@
 
 """
 from Common import Log
-from Common import Consts
 import json
-
 
 class Assertion:
     def __init__(self):
